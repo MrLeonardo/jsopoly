@@ -1,0 +1,23 @@
+{
+  "name": "jsopoly",
+  "version": "1.0.0",
+  "description": "JS implementation of Monopoly(R) Kata",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./tests/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrLeonardo/jsopoly.git"
+  },
+  "author": "Leonardo Capone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrLeonardo/jsopoly/issues"
+  },
+  "homepage": "https://github.com/MrLeonardo/jsopoly#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.1"
+  }
+}
