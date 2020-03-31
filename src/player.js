@@ -11,7 +11,7 @@ class Player {
     }
 
     advance(positions) {
-		this.position = (position + positions) % 40
+		this.position = (this.position + positions) % 40
     }
     
     play_turn() {
